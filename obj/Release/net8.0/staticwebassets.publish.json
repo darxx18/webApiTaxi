@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rZ7jNO9AlCWLBbNrZmfBaKGL9T3nEJCRz5ALSchvzVo=",
+  "Source": "webApiTaxi",
+  "BasePath": "_content/webApiTaxi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

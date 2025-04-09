@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\webapitaxi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:webapitaxi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\types_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:types_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\color_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:color_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\brand_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:brand_cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|c:\\users\\ddver\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webapitaxi\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB20435-544C-44DB-8DC7-F72B463A24A4}|webApiTaxi.csproj|solutionrelative:orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\IUsersService.cs",
+              "RelativeDocumentMoniker": "IUsersService.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\IUsersService.cs",
+              "RelativeToolTip": "IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:48:59.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\IUsersRepository.cs",
+              "RelativeToolTip": "IUsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:49:20.931Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "Dockerfile.txt",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Dockerfile.txt",
+              "RelativeToolTip": "Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T13:14:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "UsersRepository.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersRepository.cs",
+              "RelativeToolTip": "UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:47:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersService.cs",
+              "RelativeDocumentMoniker": "UsersService.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersService.cs",
+              "RelativeToolTip": "UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:40:43.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersController.cs",
+              "RelativeDocumentMoniker": "UsersController.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\UsersController.cs",
+              "RelativeToolTip": "UsersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:42:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T13:17:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T15:09:42.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "LoginResponse.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\LoginResponse.cs",
+              "RelativeToolTip": "LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:30:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\LoginRequest.cs",
+              "RelativeToolTip": "LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:30:16.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "webApiTaxi.http",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\webApiTaxi.http",
+              "RelativeDocumentMoniker": "webApiTaxi.http",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\webApiTaxi.http",
+              "RelativeToolTip": "webApiTaxi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-23T14:21:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Drivers.cs",
+              "RelativeDocumentMoniker": "Drivers.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Drivers.cs",
+              "RelativeToolTip": "Drivers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:04:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Color_cars.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Color_cars.cs",
+              "RelativeDocumentMoniker": "Color_cars.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Color_cars.cs",
+              "RelativeToolTip": "Color_cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:51:46.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Cars.cs",
+              "RelativeDocumentMoniker": "Cars.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Cars.cs",
+              "RelativeToolTip": "Cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:51:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\License.cs",
+              "RelativeDocumentMoniker": "License.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\License.cs",
+              "RelativeToolTip": "License.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:05:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Rate.cs",
+              "RelativeDocumentMoniker": "Rate.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Rate.cs",
+              "RelativeToolTip": "Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:05:39.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Statuses.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Statuses.cs",
+              "RelativeDocumentMoniker": "Statuses.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Statuses.cs",
+              "RelativeToolTip": "Statuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:05:57.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Brand_cars.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Brand_cars.cs",
+              "RelativeDocumentMoniker": "Brand_cars.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Brand_cars.cs",
+              "RelativeToolTip": "Brand_cars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:51:00.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Types_trip.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Types_trip.cs",
+              "RelativeDocumentMoniker": "Types_trip.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Types_trip.cs",
+              "RelativeToolTip": "Types_trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:06:16.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Users.cs",
+              "RelativeToolTip": "Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:06:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Orders.cs",
+              "RelativeDocumentMoniker": "Orders.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\Orders.cs",
+              "RelativeToolTip": "Orders.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:50:17.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T15:09:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\CarsController.cs",
+              "RelativeDocumentMoniker": "CarsController.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\CarsController.cs",
+              "RelativeToolTip": "CarsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:38:49.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersController.cs",
+              "ToolTip": "C:\\Users\\ddver\\Desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\webApiTaxi\\OrdersController.cs",
+              "RelativeToolTip": "OrdersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwDMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:29:42.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

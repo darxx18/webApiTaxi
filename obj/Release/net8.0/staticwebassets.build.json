@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QSOt4g9ALBpxxfAQwDdsYxz7ap+fW4qViOh4qMGTxVY=",
+  "Source": "webApiTaxi",
+  "BasePath": "_content/webApiTaxi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
